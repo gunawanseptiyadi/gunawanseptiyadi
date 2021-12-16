@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node JS
 - 📫 How to reach me?
 
-My Instagram > @gunawan_septiyadi
+My Instagram > @gunawan_septiyadi /n
 My Linkedn > https://www.linkedin.com/in/gunawan-septiyadi-b44157131/ 
 
 <!---
